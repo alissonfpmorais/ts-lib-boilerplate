@@ -1,4 +1,5 @@
-#TS Lib Boilerplate
+TS Lib Boilerplate
+---
 
 Repo used as template for new Typescript libraries.
 
